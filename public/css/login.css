@@ -1,0 +1,16 @@
+html{
+
+    background:linear-gradient(darkblue 0px,whitesmoke 500px,white 100%);
+}
+
+body,head{
+    width:1010px;
+    background-color:darkblue;
+    background:linear-gradient(white 0px,rgb(125,145,155) 500px,rgb(120,140,150) 100%);
+    margin:2px auto;
+    border-radius:8px;
+    box-shadow:5px 5px 5px 0 black;
+    padding:5px;
+    height:800px;
+
+}
